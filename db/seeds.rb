@@ -1,0 +1,1 @@
+Contact.create!(name: 'Jason Kriss', twitter: 'jasonkriss', notes: 'Some notes')
